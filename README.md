@@ -1,6 +1,6 @@
 <div align="left">
 
-<h2 style="border-bottom:1px solid #d8dee4;">👋 About Me</h2>
+<h2 style="border-bottom:1px solid #d8dee4;">Developer Profile</h2>
 
 <p>
 <b>끊임없이 배우고 성장하는 AI 개발자입니다.</b><br><br>
