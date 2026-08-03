@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 끊임없이 배우고 성장하는 AI 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요.</li></li>새로운 기술을 배우는 것을 즐기며, 문제를 해결하는 AI 서비스를 만드는 개발자입니다.</li></li>백엔드부터 AI 모델 연동, 클라우드 배포까지 직접 경험하며 서비스 개발 역량을 키워가고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -9,14 +9,15 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
