@@ -11,7 +11,6 @@
 ### 📚 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -21,7 +20,6 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PaddleOCR-0099CC?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Backend
@@ -46,22 +44,4 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-<p>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/본인아이디">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://velog.io/@본인아이디">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
 </p>
