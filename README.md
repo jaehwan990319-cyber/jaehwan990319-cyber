@@ -65,15 +65,7 @@
 - AI: [PARKJAEKYUNG0525/bene_ai](https://github.com/PARKJAEKYUNG0525/bene_ai)
 
 **🛠️ Tech 🛠️**
-
-**FE**:  
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-
-**BE**:  
-<img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/>
-
-**AI**:  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-
-**Infra**:  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+**FE**: <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>  
+**BE**: <img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/>  
+**AI**: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/>  
+**Infra**: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
