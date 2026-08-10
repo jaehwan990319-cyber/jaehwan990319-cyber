@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=jaehwan&fontColor=000000&fontSize=70" />
 </div>
 
-## 끊임없이 배우고 성장하는 AI 개발자입니다.
+<div align="center">
+
+### AI Service Developer
+
+**끊임없이 배우고 성장하는 AI 서비스 개발자입니다.**
 
 ---
 
