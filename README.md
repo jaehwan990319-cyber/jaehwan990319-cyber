@@ -49,7 +49,7 @@
 ---
 ## 🚀 Featured Project
 
-### 🟢 HAPP:ME (구 BENE) - 청년 정책·혜택 맞춤 추천 서비스 (2026.06.10 ~ 2026.08.04)
+### 🟢 HAPP:ME - 청년 정책·혜택 맞춤 추천 서비스 (2026.06.10 ~ 2026.08.04)
 
 **프로젝트 한 줄 소개**: OCR 기반 이미지 인식부터 정책 추천까지 이어지는 4단계 AI 파이프라인, FastAPI 백엔드, AWS 프로덕션 배포 및 CI/CD를 담당하였습니다.
 
@@ -64,16 +64,19 @@ FE:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
 BE:
 <p>
   <img src="https://img.shields.io/badge/FASTAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 AI:
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
+
 Infra:
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
