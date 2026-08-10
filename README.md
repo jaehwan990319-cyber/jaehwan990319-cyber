@@ -45,3 +45,47 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
+---
+## 🚀 Featured Project
+
+### 🟢 HAPP:ME (구 BENE) - 청년 정책·혜택 맞춤 추천 서비스 (2026.06.10 ~ 2026.08.04)
+
+**프로젝트 한 줄 소개**: OCR 기반 이미지 인식부터 정책 추천까지 이어지는 4단계 AI 파이프라인, FastAPI 백엔드, AWS 프로덕션 배포 및 CI/CD를 담당하였습니다.
+
+**GitHub(Repo)**:
+- Frontend: [PARKJAEKYUNG0525/bene_frontend](https://github.com/PARKJAEKYUNG0525/bene_frontend)
+- Backend: [PARKJAEKYUNG0525/bene_backend](https://github.com/PARKJAEKYUNG0525/bene_backend)
+- AI: [PARKJAEKYUNG0525/bene_ai](https://github.com/PARKJAEKYUNG0525/bene_ai)
+
+**🛠️ Tech 🛠️**
+
+FE:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+BE:
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+</p>
+
+AI:
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv11-111F68?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PaddleOCR-0058A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SBERT-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+Infra:
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
