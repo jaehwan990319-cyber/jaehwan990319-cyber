@@ -94,7 +94,7 @@
 
 **FE**: <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-**BE**: <img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+**BE**: <img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 **AI**: <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
