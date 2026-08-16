@@ -75,3 +75,23 @@
 **BE**: <img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/>  
 **AI**: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/>  
 **Infra**: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+
+### 🟠 DevTrouble AI - 개발자 트러블슈팅 지식 베이스 · RAG 검색 플랫폼 (2026.05.20 ~ 2026.07.28)
+> 개발 중 마주친 트러블슈팅 사례를 지식 베이스로 쌓고, RAG 기반 AI 검색으로 유사 문제와 해결책을 빠르게 찾아주는 서비스입니다.
+
+**담당 기능**
+- **RAG 파이프라인 설계 및 구현**: LangGraph 기반 6단계 파이프라인(질문 재구성→분류→검색→재랭킹→생성→검증) 설계, 조건부 엣지로 재시도 루프 연결
+- **캐싱 레이어 구현**: Redis 기반 Context Caching으로 반복 LLM 호출 및 임베딩 결과 캐싱, 개발/운영 환경 분리(InMemoryCache/RedisCache)
+- **AWS EKS 인프라 배포**: EKS·RDS·ElastiCache 기반 프로덕션 인프라 설계·배포
+- **GitOps 배포 파이프라인 구축**: GitHub Actions push 방식에서 Argo CD 기반 GitOps(pull 방식)로 전환, Sealed Secrets로 민감정보 관리
+- **Software Architect 역할 수행**: Backend/Frontend/DevOps 전 영역 아키텍처 설계 및 구현
+
+**GitHub(Repo)**:
+- [jaehwan990319-cyber/devtrouble-ai](https://github.com/jaehwan990319-cyber/devtrouble-ai)
+
+**🛠️ Tech 🛠️**
+**FE**: <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+**BE**: <img src="https://img.shields.io/badge/FASTAPI-009485?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+**AI**: <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+**Infra**: <img src="https://img.shields.io/badge/AWS%20EKS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
