@@ -77,7 +77,7 @@
 **Infra**: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 
-### 🟠 DevTrouble AI - 개발자 트러블슈팅 지식 베이스 · RAG 검색 플랫폼 (2026.05.20 ~ 2026.07.28)
+### 🟠 DevTrouble AI - 개발자 트러블슈팅 지식 베이스 · RAG 검색 플랫폼 (2026.06.20 ~ 2026.08.13)
 > 개발 중 마주친 트러블슈팅 사례를 지식 베이스로 쌓고, RAG 기반 AI 검색으로 유사 문제와 해결책을 빠르게 찾아주는 서비스입니다.
 
 **담당 기능**
